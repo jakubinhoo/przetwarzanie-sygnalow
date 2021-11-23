@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\diu3r\source\repos\Przetwarzanie-sygnalow\Przetwarzanie-sygnalow\Source.c(296,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\diu3r\source\repos\Przetwarzanie-sygnalow\Przetwarzanie-sygnalow\Source.c(371,1): warning C4026: function declared with formal parameter list
+C:\Users\diu3r\source\repos\Przetwarzanie-sygnalow\Przetwarzanie-sygnalow\Source.c(368): warning C4715: 'files': not all control paths return a value
+  Przetwarzanie-sygnalow.vcxproj -> C:\Users\diu3r\source\repos\Przetwarzanie-sygnalow\Debug\Przetwarzanie-sygnalow.exe
